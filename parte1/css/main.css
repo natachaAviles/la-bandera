@@ -1,0 +1,18 @@
+/* Escribe tu css aqui */
+
+body {
+	margin:0;
+}
+.box {
+	
+	height:100px; 
+
+}
+
+.yellow {
+	background-color:#F8E516;
+}
+
+.red {
+	background-color:#ED1414;
+}
