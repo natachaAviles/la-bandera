@@ -1,0 +1,21 @@
+/* Escribe tu css aqui */
+
+
+.box {
+	
+	height:100px; 
+	width: 200px;
+	margin-bottom:10px;
+	padding:10px;
+	display: inline;
+	margin-right:15px;
+
+}
+
+.yellow {
+	background-color:#F8E516;
+}
+
+.red {
+	background-color:#ED1414;
+}
